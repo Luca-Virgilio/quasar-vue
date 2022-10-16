@@ -59,8 +59,9 @@ const items: EssentialLinkProps[] = [
     routePage: "/display",
   },
   {
-    title: "Draft",
-    icon: "drafts",
+    title: "Pinia",
+    icon: "local_grocery_store",
+    routePage: "/store",
   },
   {
     title: "Doc",
